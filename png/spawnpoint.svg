@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="209.87885mm"
+   height="209.97675mm"
+   viewBox="0 0 209.87885 209.97675"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="spawnpoint.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.6551253"
+     inkscape:cx="360.23643"
+     inkscape:cy="342.68254"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(9.1239936,2.0506662)">
+    <circle
+       style="fill:none;stroke:#baffff;stroke-width:10.00069956;stroke-miterlimit:4;stroke-dasharray:80.00559643,80.00559643;stroke-dashoffset:0;stroke-opacity:1"
+       id="path872"
+       transform="matrix(0.99985471,-0.0170457,0,1,0,0)"
+       cx="95.783661"
+       cy="104.55029"
+       r="100" />
+    <ellipse
+       style="display:inline;fill:#baffff;fill-opacity:1;stroke:none;stroke-width:1.5001;stroke-miterlimit:4;stroke-dasharray:12.0009, 12.0009;stroke-dashoffset:7.0505;stroke-opacity:1"
+       id="path872-4"
+       transform="matrix(0.9998548,-0.01704074,0,1,0,0)"
+       cx="95.889931"
+       cy="104.58337"
+       rx="15.002178"
+       ry="14.997821" />
+    <circle
+       style="display:inline;fill:none;stroke:none;stroke-width:10.0007;stroke-miterlimit:4;stroke-dasharray:80.0056, 80.0056;stroke-dashoffset:47.0033;stroke-opacity:1"
+       id="path872-2"
+       transform="matrix(0.99985471,-0.0170457,0,1,0,0)"
+       r="100"
+       cy="107.02886"
+       cx="191.62582" />
+  </g>
+</svg>
